@@ -1,4 +1,4 @@
-cmds to run  \n
-git clone file
-npm install 
-npm start
+cmds to run  <br>
+git clone file <br>
+npm install <br>
+npm start <br>
